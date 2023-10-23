@@ -1,2 +1,6 @@
 Este es un ejemplo de v2
 Este es un ejemplo de v3
+Error
+sintax
+x2
+mal
